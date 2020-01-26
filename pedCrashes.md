@@ -6,6 +6,91 @@
 ## Crash Map 
 
 [Fatal Crash map](fatalCrashes.geojson)
+[All Crashes map](raleighPedCrashes.geojson)
+
+## Type of Injury 
+
+| Injury                   | Number | Percent |
+| -------------------------| -------| --------|
+| Possible Injury          | 1063   | 41.2    |
+| Suspected Minor Injury   | 993    | 38.4    | 
+| No Injury                | 217    | 8.4     |
+| Suspected Serious Injury | 167    | 6.5     |
+| Killed                   | 97     | 3.8     | 
+| Unknown Injury           | 46     | 1.8     | 
+| **Total**                |**2583**|         |  
+
+## Type of crash
+| Crash Type | Number| 
+| ----------- | ------| 
+| Pedestrian Failed to Yield | 368 |
+| Off Roadway - Parking Lot | 263 |
+| Motorist Left Turn - Parallel Paths | 256 |
+| Backing Vehicle - Parking Lot | 227 |
+| Dash | 154 |
+| Motorist Failed to Yield | 113 |
+| Motorist Exiting Driveway or Alley | 79 |
+| Walking Along Roadway With Traffic - From Behind | 71 |
+| Motor Vehicle Loss of Control | 67 |
+| Motorist Right Turn - Perpendicular Paths | 66 |
+| Motorist Right Turn - Parallel Paths | 62 |
+| Vehicle-Vehicle / Object | 62 |
+| Dart-Out | 61 |
+| Off Roadway - Other / Unknown | 59 |
+| Dispute-Related | 56 |
+| Play Vehicle-Related | 48 |
+| Motorist Right Turn on Red - Perpendicular Paths | 45 |
+| Walking in Roadway | 42 |
+| Driverless Vehicle | 42 |
+| Standing in Roadway | 39 |
+| Backing Vehicle - Roadway | 36 |
+| Working in Roadway | 32 |
+| Disabled Vehicle-Related | 30 |
+| Pedestrian on Vehicle | 29 |
+| Intersection - Other / Unknown | 24 |
+| Multiple Threat | 23 |
+| Backing Vehicle - Driveway | 22 |
+| Walking Along Roadway Against Traffic - From Front | 21 |
+| Trapped | 14 |
+| Pedestrian Loss of Control | 14 |
+| Backing Vehicle - Driveway / Sidewalk Intersection | 14 |
+| Other Unusual Circumstances | 13 |
+| School Bus-Related | 12 |
+| Assault with Vehicle | 12 |
+| Motorist Left Turn - Perpendicular Paths | 12 |
+| Crossing an Expressway | 11 |
+| Motorist Turn / Merge - Other / Unknown | 11 |
+| Non-Intersection - Other / Unknown | 10 |
+| Commercial Bus-Related | 9 |
+| Entering / Exiting Parked Vehicle | 9 |
+| Lying in Roadway | 9 |
+| Backing Vehicle - Other / Unknown | 9 |
+| Motorist Entering Driveway or Alley | 6 |
+| Walking Along Roadway Against Traffic - From Behind | 4 |
+| Motorist Right Turn on Red - Parallel Paths | 4 |
+| Waiting to Cross - Vehicle Turning | 2 |
+| Waiting to Cross - Vehicle Not Turning | 2 |
+| Walking Along Roadway With Traffic - From Front | 2 |
+| Emergency Vehicle-Related | 2 |
+| Playing in Roadway | 2 |
+| Walking Along Roadway - Direction / Position Unknown | 2 |
+| Other - Unknown Location | 1 |
+
+
+## Crash Demographics 
+
+### All crashes by race
+
+| Race            | Number | Percent| 
+| --------------  | -------| ------ |
+| Black           | 1209   |  46.8  | 
+| White           | 1002   |  38.8  | 
+| Hispanic        | 233    |  9.0   |
+| Other           | 69     |  2.7   |
+| Asian           | 41     |  1.6   | 
+| Unknown         | 21     |  .8    |  
+| Native American | 8      |  .03   |  
+| **Total**       | 2583   |        |
 
 
 ## Fatal Crash Demographics 
@@ -50,6 +135,19 @@ Note:  Need better demo data that breaks out Hispanic from White
 
 Demogrpahic data from [2018 City of Raleigh Data Book - Page 16 (2017 data)](https://cityofraleigh0drupal.blob.core.usgovcloudapi.net/drupal-prod/COR22/2018DataBook.pdf)
 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
 
 
 
