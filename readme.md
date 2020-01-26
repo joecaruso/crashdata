@@ -5,9 +5,9 @@
 ## Fatal crashes 
 97 Pedestrian 
 
-## Crash Map 
+## Crash Maps 
 
-[Fatal Crash map](fatalCrashes.geojson)
+[Fatal Pedestrian Crash map](fatalCrashes.geojson)
 
 
 ## Fatal Crash Demographics 
