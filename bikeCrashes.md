@@ -6,6 +6,7 @@
 ## Crash Map 
 
 [Fatal Crash map](fatalBikeCrashes.geojson)
+
 [All Crashes map](raleighBikeCrashes.geojson)
 
 ## Type of Injury
